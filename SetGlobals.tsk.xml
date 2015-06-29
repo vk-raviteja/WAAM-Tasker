@@ -1,0 +1,23 @@
+<TaskerData sr="" dvi="1" tv="4.3m">
+	<Task sr="task36">
+		<cdate>1432447947524</cdate>
+		<edate>1435588471967</edate>
+		<id>36</id>
+		<nme>Set Globals</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>417</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">Tasker/FunAPIs_New.txt</Str>
+			<Str sr="arg1" ve="3">%FunAPIs</Str>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>547</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%IsProcessing</Str>
+			<Str sr="arg1" ve="3">0</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
